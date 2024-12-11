@@ -20,7 +20,7 @@ Customer Segmentation and Product Analysis: Sales distribution by customer type 
 Sales Trends: Yearly and monthly sales trends to identify seasonality.
 Findings and Insights: Key takeaways and recommendations for business strategies.
 
-###Task 2: Trial Store Performance Evaluation
+### Task 2: Trial Store Performance Evaluation
 This task focused on evaluating the impact of trial layouts in selected stores.
 
 Key Contributions:
